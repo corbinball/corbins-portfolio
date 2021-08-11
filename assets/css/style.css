@@ -1,5 +1,7 @@
 h1 {
     color: red;
+    display: flex;
+    justify-content: center;
     
 }
 
@@ -10,7 +12,7 @@ nav {
 
 .nav-links {
     display: flex ;
-    justify-content: left;
+    justify-content: center;
     padding: 20px;
 }
 
@@ -32,15 +34,11 @@ p {
 }
 
 .work-links {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
+    text-align: center;
 }
 
 .contact-links {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
+    text-align: center;
 }
 
 .resize {
