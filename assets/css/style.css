@@ -34,11 +34,15 @@ p {
 }
 
 .work-links {
-    text-align: center;
+    display: flex ;
+    justify-content: center;
+    padding: 20px;
 }
 
 .contact-links {
-    text-align: center;
+    display: flex ;
+    justify-content: center;
+    padding: 20px;
 }
 
 .resize {
