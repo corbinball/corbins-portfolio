@@ -34,10 +34,11 @@ p {
 .work-links {
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .contact-links {
     display: flex;
     justify-content: center;
+    flex-direction: column;
 }
