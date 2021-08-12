@@ -20,6 +20,7 @@ nav {
     display: flex ;
     justify-content: center;
     padding: 20px;
+    line-height: 1.9;
 }
 
 h2 {
@@ -39,12 +40,15 @@ img {
     display: flex;
     justify-content: center;
     font-size: medium;
+    line-height: 1.9;
 }
 
 .work-links {
     display: flex ;
     justify-content: center;
-    padding: 0px;
+    align-items: row;
+    padding: auto;
+    margin: auto 40px;
 }
 
 .contact-links {
