@@ -35,6 +35,7 @@ nav {
     border-left: 1px solid #CCCCCC;
   }
 
+
 h2 {
     color: #59981A;
     font-style:italic;
@@ -60,7 +61,7 @@ img {
     justify-content: center;
     align-items: row;
     padding: auto;
-    margin: auto 40px;
+    line-height: 2;
 }
 
 .contact-links {
