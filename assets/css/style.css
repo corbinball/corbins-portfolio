@@ -7,9 +7,12 @@ body {
 
 h1 {
     color: #ECF87F;
-    background-color: #3D550C;
     text-align: center;
     
+}
+
+h1 span {
+    background-color: #3D550C;
 }
 
 ul {
@@ -80,10 +83,13 @@ li:hover {
 
 h2 {
     color: #59981A;
-    background-color: #3D550C;
     font-style:italic;
     display: flex;
     justify-content: center;
+}
+
+h2 span {
+    background-color: #3D550C;
 }
 
 img {
@@ -93,11 +99,14 @@ img {
 
 .aboutmeinfo {
     color: #ECF87F;
-    background-color: #3D550C;
     display: flex;
     justify-content: center;
     font-size: medium;
     line-height: 1.9;
+}
+
+p span {
+    background-color: #3D550C;
 }
 
 .work-links {
