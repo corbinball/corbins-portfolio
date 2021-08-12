@@ -40,10 +40,10 @@ nav {
     text-decoration: none;
     background-color: #ECF87F;
     color: #81B622;
-    padding: 2px 6px 2px 6px;
+    padding: 15px 45px 15px 45px;
     border-top: 1px solid #CCCCCC;
-    border-right: 1px solid #333333;
-    border-bottom: 1px solid #333333;
+    border-right: 1px solid #2fff4b;
+    border-bottom: 1px solid #2fff4b;
     border-left: 1px solid #CCCCCC;
     display: inline;
 }
@@ -53,12 +53,12 @@ nav {
     text-decoration: none;
     background-color: #ECF87F;
     color: #81B622;
-    padding: 20px 60px 20px 60px;
+    padding: 40px 120px 40px 120px;
     border-top: 1px solid #CCCCCC;
-    border-right: 1px solid #333333;
-    border-bottom: 1px solid #333333;
+    border-right: 1px solid #2fff4b;
+    border-bottom: 1px solid #2fff4b;
     border-left: 1px solid #CCCCCC;
-    display: inline;
+    display: above;
 }
 
 .hwbutton:hover {
