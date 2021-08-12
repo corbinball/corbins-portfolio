@@ -12,6 +12,12 @@ h1 {
     
 }
 
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
 nav {
     color: #81B622;
     align-items: row;
@@ -23,6 +29,7 @@ nav {
     align-items: row;
     padding: 20px;
     line-height: 1.9;
+    margin: 5px 5px;
 }
 
 .button {
@@ -36,6 +43,24 @@ nav {
     border-bottom: 1px solid #333333;
     border-left: 1px solid #CCCCCC;
     display: inline;
+}
+
+.hwbutton {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #ECF87F;
+    color: #81B622;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    display: inline;
+}
+
+.hwbutton:hover {
+    background-image:url(https://github.com/corbinball/corbins-portfolio/blob/main/assets/images/hwscreenshot.PNG?raw=true) !important;
+    background-size: 93%;
 }
 
 li {
