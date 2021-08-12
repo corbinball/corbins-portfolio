@@ -1,18 +1,18 @@
 body {
-    background-image: url();
+    background-color: #3D550C;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 h1 {
-    color: red;
+    color: #ECF87F;
     display: flex;
     justify-content: center;
     
 }
 
 nav {
-    color: blue;
+    color: #81B622;
     ;
 }
 
@@ -23,6 +23,7 @@ nav {
 }
 
 h2 {
+    color: #59981A;
     font-style:italic;
     display: flex;
     justify-content: center;
@@ -33,9 +34,8 @@ img {
     justify-content: center;
 }
 
-p {
-    font-style: bold;
-    font-size:initial;
+.aboutmeinfo {
+    color: #ECF87F;
     display: flex;
     justify-content: center;
     font-size: medium;
