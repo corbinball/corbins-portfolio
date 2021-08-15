@@ -7,14 +7,14 @@ This experience at building my first portfolio, gives me new insights into my we
 This will be used as a starting point for where I am now, and later, how far I've come.
 
 
-## Table of Contents (Optional)
-If your README is long, add a table of contents to make it easy for users to find what they need.
-- [Installation](#installation)
+## Table of Contents
+- [Live Link](#live-link)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Features](#features)
+- [Credits](#credits)gi
 - [License](#license)
 
-## Live Link
+## Live-Link
 https://corbinball.github.io/corbins-portfolio/
 
 
