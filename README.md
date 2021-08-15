@@ -11,7 +11,7 @@ This will be used as a starting point for where I am now, and later, how far I'v
 - [Live Link](#live-link)
 - [Usage](#usage)
 - [Features](#features)
-- [Credits](#credits)gi
+- [Credits](#credits)
 - [License](#license)
 
 ## Live-Link
