@@ -103,9 +103,9 @@ img {
 }
 
 .aboutmeinfo {
-    color: #84df4f;
+    color: #215007;
     display: flex;
-    border: solid 1px;
+    /* border: solid 1px; */
     max-width: 800px;
     margin: 0 auto;
     flex-wrap: wrap;
@@ -113,7 +113,7 @@ img {
     align-content: center;
     font-size: medium;
     line-height: 3.9;
-    background-color: #3D550C;
+    /* background-color: #3D550C; */
 }
 
 p {
@@ -122,9 +122,9 @@ p {
     line-height: 1.9;
 }
 
-p span {
-    background-color: #3D550C;
-}
+/* p span { */
+    /* background-color: #3D550C; */
+/* } */
 
 .work-links {
     display: flex ;
