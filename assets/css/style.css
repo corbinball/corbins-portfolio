@@ -71,6 +71,32 @@ nav {
     background-size: 93%;
 }
 
+.youbutton {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #ECF87F;
+    color: #81B622;
+    padding: 40px 120px 40px 120px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #2fff4b;
+    border-bottom: 1px solid #2fff4b;
+    border-left: 1px solid #CCCCCC;
+    display: above;
+}
+
+.pwgenbutton {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #ECF87F;
+    color: #81B622;
+    padding: 40px 120px 40px 120px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #2fff4b;
+    border-bottom: 1px solid #2fff4b;
+    border-left: 1px solid #CCCCCC;
+    display: above;
+}
+
 li {
     margin-left: 50px;
     height: 20px;
