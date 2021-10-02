@@ -66,7 +66,7 @@ nav {
     border-right: 1px solid #2fff4b;
     border-bottom: 1px solid #2fff4b;
     border-left: 1px solid #CCCCCC;
-    display: inline;
+    display: flex;
     justify-content: center;
 }
 
@@ -240,7 +240,7 @@ p {
     border-right: 1px solid #2fff4b;
     border-bottom: 1px solid #2fff4b;
     border-left: 1px solid #CCCCCC;
-    display: inline;
+    display: flex;
 }
 
 .contact-links {
