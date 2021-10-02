@@ -10,15 +10,15 @@ html {
 }
 
 h1 {
-    font: 50px;
-    color: #ECF87F;
+    font-size: 500%;
+    color: #c1f504;
     text-align: center;
     
 }
 
-h1 span {
-    background-color: #3D550C;
-}
+/* h1 span { */
+    /* background-color: #3D550C; */
+/* } */
 
 ul {
     display: flex;
@@ -76,9 +76,11 @@ li {
     height: 20px;
     width: 100px;
     background: lightgray;
-    border: 1px solid black;
     list-style: none;
     text-align: center;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
   }
   
 li:hover {
@@ -87,15 +89,15 @@ li:hover {
   }
 
 h2 {
-    color: #fbff00;
+    color: #054e03;
     font-style:italic;
     display: flex;
     justify-content: center;
 }
 
-h2 span {
-    background-color: #3D550C;
-}
+/* h2 span { */
+    /* background-color: #3D550C; */
+/* } */
 
 img {
     display: flex;
