@@ -3,6 +3,7 @@ body {
     background-color: #3D550C;
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: 'Oxygen', sans-serif;
 }
 
 html {
@@ -84,6 +85,12 @@ nav {
     display: above;
 }
 
+.youbutton:hover {
+    background-image:url(https://github.com/corbinball/corbins-portfolio/blob/main/assets/images/youpediascreenshot.png?raw=true) !important;
+    background-size: fill;
+    background-repeat: round;
+}
+
 .pwgenbutton {
     font: bold 11px Arial;
     text-decoration: none;
@@ -96,6 +103,13 @@ nav {
     border-left: 1px solid #CCCCCC;
     display: above;
 }
+
+.pwgenbutton:hover {
+    background-image:url(https://github.com/corbinball/corbins-portfolio/blob/main/assets/images/pwgenscreenshot.png?raw=true) !important;
+    background-size: fill;
+    background-repeat: round;
+}
+
 
 li {
     margin-left: 50px;
