@@ -6,6 +6,13 @@ Building this portfolio with the new skills I learned, shows I understand how to
 This experience at building my first portfolio, gives me new insights into my web development career. I learned the importance of organization while sharpening my skills in CSS.
 This will be used as a starting point for where I am now, and later, how far I've come.
 
+## UPDATES
+New background/styles for easier readability
+New Font
+New Picture
+New About me
+New Work Links (YouPedia project and password generator added)
+New Contact me links (Added github, working email link, linkedin, and resume)
 
 ## Table of Contents
 - [Live Link](#live-link)
@@ -21,9 +28,13 @@ https://corbinball.github.io/corbins-portfolio/
 ## Usage
 This first portfolio will be used as a rough draft for my future career portfolio. 
     
-    ::Screenshot of my Portfolio::
+    :: Old Screenshot of my Portfolio::
 
 <image src= "https://github.com/corbinball/corbins-portfolio/blob/main/assets/images/portfolioscreenshot.png?raw=true" />
+
+    ::UPDATED Screenshot of my Portfolio::
+
+<img src= "https://github.com/corbinball/corbins-portfolio/blob/main/assets/images/updatedscreenshot.png?raw=true" />
 
 
 ## Features
