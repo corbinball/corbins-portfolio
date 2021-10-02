@@ -7,12 +7,12 @@ This experience at building my first portfolio, gives me new insights into my we
 This will be used as a starting point for where I am now, and later, how far I've come.
 
 ## UPDATES
-New background/styles for easier readability
-New Font
-New Picture
-New About me
-New Work Links (YouPedia project and password generator added)
-New Contact me links (Added github, working email link, linkedin, and resume)
+- New background/styles for easier readability
+- New Font
+- New Picture
+- New About me
+- New Work Links (YouPedia project and password generator added)
+- New Contact me links (Added github, working email link, linkedin, and resume)
 
 ## Table of Contents
 - [Live Link](#live-link)
