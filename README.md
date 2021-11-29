@@ -37,6 +37,12 @@ This first portfolio will be used as a rough draft for my future career portfoli
 <img src= "https://github.com/corbinball/corbins-portfolio/blob/main/assets/images/updatedscreenshot.png?raw=true" />
 
 
+
+**NEW UPDATES 11/28/21**
+    - Updated work links
+    - Updated css media screen widths
+
+
 ## Features
 Some features within my first portfolio:
 - Buttons background change colors when the mouse hovers over them
