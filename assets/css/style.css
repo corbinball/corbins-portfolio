@@ -301,11 +301,7 @@ p {
     .contact-links{
       padding-left: 20%;
       width: 50%;
-      /* justify-content: center; */
     }
-
-
-
   }
   
   /* Small smartphones -  */
@@ -314,18 +310,19 @@ p {
         width: 100%;
     }
     .nav-links{
-
+      width: 100%;
+      padding-left: 5%;
     }
     .aboutmeinfo{
-
+      width: 100%;
     }
-    .work-links{
-
+    .work-links{ 
+      width: 50%;
+      padding-left: 5%;
     }
     .contact-links{
-        
+      padding-left: 20%;
+      width: 50%;
     }
-
-
   }
   
