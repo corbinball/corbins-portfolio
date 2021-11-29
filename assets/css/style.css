@@ -16,6 +16,7 @@ h1 {
     font-size: 550%;
     color: #c1f504;
     text-align: center;
+    justify-content: center;
     
 }
 
@@ -263,6 +264,21 @@ p {
 
  /* Tablets -  */
   @media screen and (max-width: 992px) {
+      h1 {
+          width: 100%;
+      }
+      .nav-links{
+
+      }
+      .aboutmeinfo{
+
+      }
+      .work-links{
+
+      }
+      .contact-links{
+          
+      }
 
     }
   
