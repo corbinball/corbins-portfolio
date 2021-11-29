@@ -277,18 +277,50 @@ p {
 
       }
       .contact-links{
-          
+
       }
 
     }
   
   /* Large smartphones -  */
   @media screen and (max-width: 768px) {
+    h1 {
+        width: 100%;
+    }
+    .nav-links{
+
+    }
+    .aboutmeinfo{
+
+    }
+    .work-links{
+
+    }
+    .contact-links{
+        
+    }
+
 
   }
   
   /* Small smartphones -  */
   @media screen and (max-width: 576px) {
+    h1 {
+        width: 100%;
+    }
+    .nav-links{
+
+    }
+    .aboutmeinfo{
+
+    }
+    .work-links{
+
+    }
+    .contact-links{
+        
+    }
+
 
   }
   
